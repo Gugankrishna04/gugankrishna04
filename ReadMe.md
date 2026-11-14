@@ -1,31 +1,64 @@
- <img alt="👋" src="./assets/hand-wave.gif" width='40' style="vertical-align: middle;"/>
- <h2 style="display: inline-block; vertical-align: middle; margin-left: 10px;">Hey there! I'm <a href="https://github.com/buqiyuan](http://www.linkedin.com/in/gugan-krishna-a1a242254" target="_blank">Gugan Krishna</a></h2>
+<h1 align="center">Hey there, I'm Gugan Krishna 👋</h1>
 
-# 💫 About Me:
-MEAN Stack Developer | Skilled in building dynamic, scalable web applications using MongoDB, Express, Angular, Node.js, and Bootstrap.
+<p align="center">
+  <b>Integrated Marketer · Design × Marketing × AI</b><br>
+</p>
 
-## 🌐 Socials:
-  <a target="_blank" href="http://www.linkedin.com/in/gugan-krishna-a1a242254"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a target="_blank" href="mailto:krishnagugan00@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a target="_blank" href="https://github.com/gugankrishna04"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+---
 
-# 💻 Tech Stack
+## 💫 About me
 
-Front-End:
+I'm an Integrated Marketing Executive at **Rams Real Estates** in Chennai. I plan and run campaigns across social media, SEO, brochures, site hoardings, newspaper ads and on-ground activations, all working together to bring in the right buyers.
 
-![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+I also have a BCA and a web-development background, so I'm comfortable working with developers and building sites myself.
 
-Back-End:
+## 🧭 What I do
 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+- 🎯 Brand and campaign planning for project launches
+- 🔍 SEO, social media and Meta Ads
+- 🎨 Design direction: creatives, brochures, hoardings
+- 📈 Lead generation and customer acquisition
+- 🔬 Market and competitor research
 
-Tools:
+## 🛠️ Marketing and analytics
 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="git"/>
-    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" alt="git"/>
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
-    <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
-    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="vscode"/>
+![GA4](https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Tag Manager](https://img.shields.io/badge/Tag_Manager-246FDB?style=for-the-badge&logo=googletagmanager&logoColor=white)
+![SEMrush](https://img.shields.io/badge/SEMrush-FF642D?style=for-the-badge&logo=semrush&logoColor=white)
+![Meta Ads](https://img.shields.io/badge/Meta_Ads-0866FF?style=for-the-badge&logo=meta&logoColor=white)
+![Search Console](https://img.shields.io/badge/Search_Console-458CF5?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎨 Design and video
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ps,ai,ae,figma&perline=8" alt="Photoshop, Illustrator, After Effects, Figma" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+</p>
+
+## 🌐 Websites
+
+<p>
+  <img src="https://skillicons.dev/icons?i=wordpress,webflow,framer,wix,shopify&perline=8" alt="WordPress, Webflow, Framer, Wix, Shopify" />
+</p>
+
+## 🤖 AI tools
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+## 💻 Web foundations
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,ts,angular,nodejs,mongodb,bootstrap,netlify,vercel,github,vscode&perline=11" alt="Web stack" />
+</p>
+
+## 🌐 Languages
+
+English · Tamil · Telugu · Kannada
+
+//##🔗 Find me
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-e5121f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio-link)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishguga.2005@gmail.com) // 

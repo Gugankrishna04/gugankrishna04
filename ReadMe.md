@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Gugan Krishna 👋</h1>
 
 <p align="center">
-  <b>Integrated Marketer · Design × Marketing × AI</b><br>
+  <b>Integrated Marketer · Design × Marketing × AI</b>
 </p>
 
 ---
@@ -37,9 +37,11 @@ I also have a BCA and a web-development background, so I'm comfortable working w
 
 ## 🌐 Websites
 
-<p>
-  <img src="https://skillicons.dev/icons?i=wordpress,webflow,framer,wix,shopify&perline=8" alt="WordPress, Webflow, Framer, Wix, Shopify" />
-</p>
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Webflow](https://img.shields.io/badge/Webflow-146EF5?style=for-the-badge&logo=webflow&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Wix](https://img.shields.io/badge/Wix-0C6EFC?style=for-the-badge&logo=wix&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 
 ## 🤖 AI tools
 
@@ -59,6 +61,6 @@ English · Tamil · Telugu · Kannada
 
 ## 🔗 Find me
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-e5121f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-kohl-seven-62.vercel.app/))
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/gugan-krishna-a1a242254/))
-[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishguga.2005@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-e5121f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-kohl-seven-62.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gugan-krishna-a1a242254/)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishguga.2005@gmail.com)

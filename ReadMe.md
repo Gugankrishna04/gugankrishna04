@@ -59,6 +59,6 @@ English · Tamil · Telugu · Kannada
 
 //##🔗 Find me
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-e5121f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio-link)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-e5121f?style=for-the-badge&logo=googlechrome&logoColor=white)]([https://your-portfolio-link](https://portfolio-kohl-seven-62.vercel.app/))
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishguga.2005@gmail.com) // 
